@@ -21,10 +21,7 @@ my_instance_context = """
 """
 
 my_instance_starter = """
-Beginne das Gespräch mit einer freundlichen und einladenden Nachricht, die den Nutzer dazu ermutigt, sich aktiv zu beteiligen. 
-Stelle eine offene Frage oder eine einfache Aufforderung, um das Interesse des Nutzers zu wecken und ihn zur Interaktion zu motivieren. 
-Sei empathisch und einfühlsam in deiner Ansprache, um eine positive Atmosphäre zu schaffen. 
-Lasse den Nutzer wissen, dass du hier bist, um zu helfen und ihn zu unterstützen.
+Beginne das Gespräch mit einer freundlichen und einladenden Nachricht, die den Nutzer dazu ermutigt, sich aktiv zu beteiligen.
 """
 
 bot = Chatbot(
